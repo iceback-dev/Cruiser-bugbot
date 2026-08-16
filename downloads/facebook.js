@@ -1,4 +1,4 @@
-use strict';
+'use strict';
 const { fetchJson, fetchBuffer } = require('../../utils/api');
 const antiban = require('../../utils/antiban');
 const config  = require('../../config');
